@@ -220,7 +220,7 @@ bindsym $mod+Shift+s exec spectacle --region --new-instance
 bindsym $mod+Control+l exec i3lockmore --image-fill ~/Images/Wallpapers/blue_screen.png
 
 
-exec --no-startup-id picom
+exec --no-startup-id picom --daemon
 # exec --no-startup-id syndaemon -i 1
 
 exec --no-startup-id pasystray
