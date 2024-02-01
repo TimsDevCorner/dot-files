@@ -1,4 +1,4 @@
 return {
-	-- 	'mikelue/vim-maven-plugin',
-	-- 	lazy = false
+	-- 'TimsDevCorner/vim-maven-plugin',
+	-- lazy = false
 }

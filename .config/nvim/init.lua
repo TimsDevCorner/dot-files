@@ -35,6 +35,9 @@ vim.opt.foldlevel = 99
 --clipboard
 vim.opt.clipboard = "unnamedplus"
 
+-- colortheme
+vim.opt.termguicolors = true
+
 vim.api.nvim_create_autocmd('TextYankPost', {
 	-- group = vim.api.nvim_create_augroup('highlight_yank' ),
 	desc = 'Hightlight selection on yank',
