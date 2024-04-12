@@ -230,6 +230,6 @@ exec --no-startup-id batsignal -b
 exec --no-startup-id feh --bg-center ~/Images/Wallpapers/wp2506813-nature-4k-wallpapers.jpg
 
 exec --no-startup-id /usr/lib/geoclue-2.0/demos/agent
-exec --no-startup-id redshift-gtk 
+exec --no-startup-id redshift -O 3500K
 
 
