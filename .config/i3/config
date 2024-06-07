@@ -224,7 +224,7 @@ exec --no-startup-id picom --daemon
 # exec --no-startup-id syndaemon -i 1
 
 exec --no-startup-id pasystray
-exec --no-startup-id /usr/local/bin/mic_volume.sh
+# exec --no-startup-id /usr/local/bin/mic_volume.sh
 
 exec --no-startup-id batsignal -b
 exec --no-startup-id feh --bg-center ~/Images/Wallpapers/wp2506813-nature-4k-wallpapers.jpg
